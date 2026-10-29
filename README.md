@@ -29,14 +29,21 @@ Turn your Android head unit, tablet, or car screen into a full Android Auto disp
 
 <div align="center">
 
+### Landscape (head unit view)
+
 | | | |
 |:---:|:---:|:---:|
-| <img src="assets/screenshot-1.png" width="260"> | <img src="assets/screenshot-2.png" width="260"> | <img src="assets/screenshot-3.png" width="260"> |
-| <img src="assets/screenshot-4.png" width="260"> | <img src="assets/screenshot-5.png" width="260"> | <img src="assets/screenshot-6.png" width="260"> |
+| <img src="assets/screenshot-1-land.jpg" width="260"> | <img src="assets/screenshot-2-land.jpg" width="260"> | <img src="assets/screenshot-3-land.jpg" width="260"> |
+| <img src="assets/screenshot-4-land.jpg" width="260"> | <img src="assets/screenshot-5-land.jpg" width="260"> | <img src="assets/screenshot-6-land.jpg" width="260"> |
+
+### Portrait
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="assets/screenshot-1-port.jpg" width="170"> | <img src="assets/screenshot-2-port.jpg" width="170"> | <img src="assets/screenshot-3-port.jpg" width="170"> |
+| <img src="assets/screenshot-4-port.jpg" width="170"> | <img src="assets/screenshot-5-port.jpg" width="170"> | <img src="assets/screenshot-6-port.jpg" width="170"> |
 
 </div>
-
----
 
 ## About this app
 
